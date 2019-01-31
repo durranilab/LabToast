@@ -20,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
-
         Button default_btn = findViewById(R.id.default_btn);
         Button rounded_corners = findViewById(R.id.rounded);
         Button medium_corners = findViewById(R.id.medium);
