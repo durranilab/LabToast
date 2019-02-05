@@ -18,7 +18,7 @@
 ### How to Use
 In your build.gradle (Module)
 ```sh
-implementation 'com.durranilab:labtoast:1.0'
+implementation 'com.durranilab.labtoast:1.0'
 ```
 
 In your activity
